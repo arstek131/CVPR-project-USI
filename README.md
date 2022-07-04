@@ -16,6 +16,7 @@ It is divided into 3 main assignments:
 For assignment specifications [here](https://github.com/arstek131/CVPR-project-USI/blob/main/Ali_Parisi_CVPR_1/assignment_4.pdf)
 
 ### Reconstruct camera position using DLT
+<img src="https://github.com/arstek131/CVPR-project-USI/blob/main/Ali_Parisi_CVPR_2/cvpr_2.png"  style="width: 20vw; min-width: 140px;"/>
 
 For assignment specifications [here](https://github.com/arstek131/CVPR-project-USI/blob/main/Ali_Parisi_CVPR_2/assignment_6.pdf)
 
