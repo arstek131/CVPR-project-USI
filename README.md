@@ -16,7 +16,8 @@ It is divided into 3 main assignments:
 For assignment specifications [here](https://github.com/arstek131/CVPR-project-USI/blob/main/Ali_Parisi_CVPR_1/assignment_4.pdf)
 
 ### Reconstruct camera position using DLT
-hola
+
+For assignment specifications [here](https://github.com/arstek131/CVPR-project-USI/blob/main/Ali_Parisi_CVPR_2/assignment_6.pdf)
 
 ### Detect when a red ball is potted
 <img src="https://github.com/arstek131/CVPR-project-USI/blob/main/Ali_Parisi_CVPR_3/cvpr_3.png" style="width: 40vw; min-width: 140px;" />
